@@ -1,6 +1,6 @@
 # Animals-10 Image Classification with CNN
 
-## Want to test our model?
+## 1. Want to test our model?
 Go to: https://huggingface.co/spaces/p-0rridge/animals-10-classifier
 
 ## 2. About Project
