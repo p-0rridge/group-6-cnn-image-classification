@@ -1,5 +1,8 @@
 # Animals-10 Image Classification with CNN
 
+## Want to test our model?
+Go to: https://huggingface.co/spaces/p-0rridge/animals-10-classifier
+
 ## 2. About Project
 This project explores image classification with Convolutional Neural Networks using the Animals-10 dataset. We trained and compared several CNN models, starting from a simple baseline and gradually testing deeper, wider, and transfer learning models.
 
